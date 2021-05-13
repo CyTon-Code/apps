@@ -5,8 +5,8 @@
 (RMB to directory -> Open in terminal))
 
 ## compile:
-"python Linux_compile.py"
+  `python Linux_compile.py`
 
 ## run app:
-"python Linux_run.py"
+  `python Linux_run.py`
 
