@@ -29,3 +29,7 @@ or:
 `gcc -o main main.cpp`
   
   `./bin/main`
+  
+  
+  - Google Translate 13.05.2021
+  
