@@ -21,3 +21,9 @@ or using make:
   `make main`
   
   `./main`
+
+or:
+
+`gcc -o main main.cpp`
+  
+  `./main`
