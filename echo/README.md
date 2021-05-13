@@ -16,7 +16,7 @@ using clang:
 
   `clang -o bin/name_app main.cpp`
   
-  `./main`
+  `./bin/main`
 
 or using make:
 
@@ -28,4 +28,4 @@ or:
 
 `gcc -o main main.cpp`
   
-  `./main`
+  `./bin/main`
