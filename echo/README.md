@@ -10,3 +10,14 @@
 ## run app:
   `python Linux_run.py`
 
+## you can run the program without using python:
+
+using clang:
+
+  `clang -o bin/name_app main.cpp`
+  
+or using make:
+
+  `make main`
+  
+  `./main`
