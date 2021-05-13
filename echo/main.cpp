@@ -2,10 +2,10 @@
 
 
 int main(int length, char* args[]) {
-    // пробежаться по массиву слов:
+    // iterate over an array of words:
     for (int i = 1; i < length; i++)
-        printf("%s ", args[i]);// печатая каждое слово на экран разделяя
-        // их пробелом
+        printf("%s ", args[i]);// display of each word on the screen
+        //  separated by a space
     printf("\n");
 
     return 0;
