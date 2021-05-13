@@ -16,6 +16,8 @@ using clang:
 
   `clang -o bin/name_app main.cpp`
   
+  `./main`
+
 or using make:
 
   `make main`
