@@ -1,4 +1,4 @@
-# RUN:
+# The famous echo program, which displays the received arguments on the screen
 
 # Important for beginners:
 - You must open Terminal in this directory (folder) - commands will only work in this folder
