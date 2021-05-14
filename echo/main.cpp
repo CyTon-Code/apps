@@ -1,12 +1,7 @@
-#include <stdio.h>
-
+#include "../lib/echo.cpp"
 
 int main(int length, char* args[]) {
-    // iterate over an array of words:
-    for (int i = 1; i < length; i++)
-        printf("%s ", args[i]);// display of each word on the screen
-        //  separated by a space
-    printf("\n");
+    echo(length, args);
 
     return 0;
 }
